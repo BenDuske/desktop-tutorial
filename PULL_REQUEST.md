@@ -5,3 +5,7 @@ A pull request lets you propose the changes you made on your branch
 
 Edit this file, commit the change, publish your branch, and then open a
 pull request on GitHub to complete the tutorial.
+
+---
+
+Edited on `my-first-branch` for the GitHub Desktop tutorial exercise.
